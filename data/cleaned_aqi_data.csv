@@ -1,0 +1,214 @@
+state,city,date,NO2,PM10,PM2.5
+Andaman and Nicobar,Sri Vijaya Puram,2025-05-19,43.0,17.0,5.0
+Andhra_Pradesh,Amaravati,2025-05-19,35.0,61.0,36.0
+Andhra_Pradesh,Anantapur,2025-05-19,32.0,64.0,69.0
+Andhra_Pradesh,Chittoor,2025-05-19,21.0,65.0,72.0
+Andhra_Pradesh,Rajamahendravaram,2025-05-19,21.0,36.0,23.0
+Andhra_Pradesh,Tirumala,2025-05-19,17.0,40.0,52.0
+Andhra_Pradesh,Tirupati,2025-05-19,8.0,67.0,94.0
+Andhra_Pradesh,Vijayawada,2025-05-19,27.333333333333332,49.0,47.0
+Andhra_Pradesh,Visakhapatnam,2025-05-19,15.0,36.0,23.0
+Arunachal_Pradesh,Naharlagun,2025-05-19,5.0,40.0,36.0
+Assam,Byrnihat,2025-05-19,12.0,90.0,102.0
+Assam,Guwahati,2025-05-19,19.0,26.666666666666668,30.0
+Assam,Nalbari,2025-05-19,3.0,24.0,25.0
+Assam,Silchar,2025-05-19,12.0,60.0,37.0
+Assam,Sivasagar,2025-05-19,22.0,25.0,23.0
+Bihar,Araria,2025-05-19,7.0,61.0,40.0
+Bihar,Arrah,2025-05-19,7.0,51.0,25.0
+Bihar,Aurangabad,2025-05-19,8.0,53.0,39.0
+Bihar,Begusarai,2025-05-19,73.0,56.0,40.0
+Bihar,Bettiah,2025-05-19,28.0,61.0,40.0
+Bihar,Bhagalpur,2025-05-19,19.0,61.0,40.0
+Bihar,Bihar Sharif,2025-05-19,10.0,61.0,40.0
+Bihar,Buxar,2025-05-19,5.0,58.0,40.0
+Bihar,Gaya,2025-05-19,9.666666666666666,90.5,71.0
+Bihar,Hajipur,2025-05-19,18.0,54.0,57.0
+Bihar,Katihar,2025-05-19,14.0,61.0,40.0
+Bihar,Kishanganj,2025-05-19,8.0,61.0,40.0
+Bihar,Manguraha,2025-05-19,5.0,61.0,28.0
+Bihar,Motihari,2025-05-19,13.0,34.0,23.0
+Bihar,Munger,2025-05-19,5.0,39.0,28.0
+Bihar,Muzaffarpur,2025-05-19,8.333333333333334,44.0,35.333333333333336
+Bihar,Patna,2025-05-19,29.8,86.0,61.0
+Bihar,Purnia,2025-05-19,19.0,61.0,40.0
+Bihar,Rajgir,2025-05-19,9.0,58.0,66.0
+Bihar,Siwan,2025-05-19,4.0,61.0,40.0
+Chandigarh,Chandigarh,2025-05-19,27.0,105.0,72.0
+Chhattisgarh,Bhilai,2025-05-19,16.0,36.5,39.0
+Chhattisgarh,Bilaspur,2025-05-19,31.0,47.0,48.0
+Chhattisgarh,Korba,2025-05-19,34.5,61.0,54.0
+Chhattisgarh,Kunjemura,2025-05-19,16.0,45.0,31.0
+Chhattisgarh,Raipur,2025-05-19,23.0,67.0,49.5
+Delhi,Delhi,2025-05-19,42.0,172.7941176470588,145.77142857142857
+Gujarat,Ahmedabad,2025-05-19,37.77777777777778,72.0,63.75
+Gujarat,Ankleshwar,2025-05-19,51.0,46.0,29.0
+Gujarat,Gandhinagar,2025-05-19,25.333333333333332,74.0,64.33333333333333
+Gujarat,Surat,2025-05-19,13.0,32.0,32.0
+Gujarat,Vapi,2025-05-19,14.0,57.0,26.0
+Haryana,Gurugram,2025-05-19,14.0,61.0,159.0
+Haryana,Panchgaon,2025-05-19,80.0,71.0,76.0
+Himachal Pradesh,Baddi,2025-05-19,20.0,174.0,153.0
+Jharkhand,Dhanbad,2025-05-19,126.0,61.0,47.0
+Karnataka,Bengaluru,2025-05-19,19.454545454545453,51.0,32.285714285714285
+Karnataka,Chamarajanagar,2025-05-19,21.0,40.0,25.0
+Karnataka,Chikkaballapur,2025-05-19,25.0,31.0,21.0
+Karnataka,Chikkamagaluru,2025-05-19,26.0,32.0,20.0
+Karnataka,Davanagere,2025-05-19,10.0,22.0,35.0
+Karnataka,Dharwad,2025-05-19,25.0,63.0,49.0
+Karnataka,Hubballi,2025-05-19,9.0,46.0,36.0
+Karnataka,Kalaburagi,2025-05-19,15.0,36.0,27.0
+Karnataka,Madikeri,2025-05-19,2.0,21.0,27.0
+Karnataka,Mangalore,2025-05-19,5.0,57.0,45.0
+Karnataka,Mysuru,2025-05-19,21.0,33.0,18.0
+Karnataka,Shivamogga,2025-05-19,37.0,46.0,33.0
+Karnataka,Vijayapura,2025-05-19,9.0,47.0,37.0
+Kerala,Eloor,2025-05-19,8.0,43.0,47.0
+Kerala,Kollam,2025-05-19,9.0,81.0,53.0
+Kerala,Thiruvananthapuram,2025-05-19,8.5,37.0,25.5
+Kerala,Thrissur,2025-05-19,10.0,62.0,50.0
+Madhya Pradesh,Bhopal,2025-05-19,25.0,73.0,46.666666666666664
+Madhya Pradesh,Damoh,2025-05-19,17.0,81.0,44.0
+Madhya Pradesh,Dewas,2025-05-19,29.0,64.0,33.0
+Madhya Pradesh,Gwalior,2025-05-19,21.0,116.66666666666667,89.66666666666667
+Madhya Pradesh,Indore,2025-05-19,27.5,46.0,32.8
+Madhya Pradesh,Jabalpur,2025-05-19,36.75,58.75,46.0
+Madhya Pradesh,Katni,2025-05-19,43.0,95.0,41.0
+Madhya Pradesh,Mandideep,2025-05-19,21.0,85.0,64.0
+Madhya Pradesh,Pithampur,2025-05-19,19.0,91.0,69.0
+Madhya Pradesh,Ratlam,2025-05-19,17.0,67.0,45.0
+Madhya Pradesh,Sagar,2025-05-19,12.5,52.5,42.0
+Madhya Pradesh,Singrauli,2025-05-19,3.0,71.0,38.0
+Maharashtra,Aurangabad,2025-05-19,33.666666666666664,81.0,82.0
+Maharashtra,Ahmednagar,2025-05-19,28.0,61.0,11.0
+Maharashtra,Akola,2025-05-19,16.0,52.0,46.0
+Maharashtra,Amravati,2025-05-19,11.0,57.0,42.5
+Maharashtra,Badlapur,2025-05-19,51.0,105.0,76.0
+Maharashtra,Belapur,2025-05-19,8.0,50.0,35.0
+Maharashtra,Bhiwandi,2025-05-19,46.0,89.0,68.0
+Maharashtra,Boisar,2025-05-19,8.0,58.0,35.0
+Maharashtra,Chandrapur,2025-05-19,17.0,102.0,40.0
+Maharashtra,Jalgaon,2025-05-19,11.0,64.0,66.0
+Maharashtra,Kalyan,2025-05-19,12.0,75.5,33.5
+Maharashtra,Kolhapur,2025-05-19,8.5,49.0,32.0
+Maharashtra,Latur,2025-05-19,18.0,41.0,40.0
+Maharashtra,Mahad,2025-05-19,19.0,68.0,61.0
+Maharashtra,Malegaon,2025-05-19,14.0,51.0,40.0
+Maharashtra,Mira-Bhayandar,2025-05-19,7.0,48.0,31.0
+Maharashtra,Mumbai,2025-05-19,25.16,69.58333333333333,32.07692307692308
+Maharashtra,Nagpur,2025-05-19,24.25,112.25,119.25
+Maharashtra,Nanded,2025-05-19,19.0,32.0,40.0
+Maharashtra,Nashik,2025-05-19,8.75,57.75,40.5
+Maharashtra,Navi Mumbai,2025-05-19,26.0,66.2,44.8
+Maharashtra,Pimpri-Chinchwad,2025-05-19,27.0,57.0,36.0
+Maharashtra,Pune,2025-05-19,26.8,49.833333333333336,33.833333333333336
+Maharashtra,Sangli,2025-05-19,13.0,54.0,40.0
+Maharashtra,Solapur,2025-05-19,44.0,61.0,34.5
+Maharashtra,Thane,2025-05-19,11.0,57.0,36.5
+Maharashtra,Ulhasnagar,2025-05-19,48.0,93.0,71.0
+Maharashtra,Virar,2025-05-19,17.0,59.0,33.0
+Manipur,Imphal,2025-05-19,8.0,27.0,12.0
+Meghalaya,Shillong,2025-05-19,17.0,61.0,9.0
+Odisha,Angul,2025-05-19,7.0,40.0,15.0
+Odisha,Balasore,2025-05-19,8.0,33.0,10.0
+Odisha,Barbil,2025-05-19,24.0,60.0,40.0
+Odisha,Baripada,2025-05-19,6.0,31.0,18.0
+Odisha,Bhubaneswar,2025-05-19,7.5,20.0,9.0
+Odisha,Bileipada,2025-05-19,8.0,87.0,47.0
+Odisha,Brajrajnagar,2025-05-19,14.0,56.0,40.0
+Odisha,Byasanagar,2025-05-19,45.0,61.0,40.0
+Odisha,Cuttack,2025-05-19,9.0,28.0,40.0
+Odisha,Keonjhar,2025-05-19,17.0,59.0,40.0
+Odisha,Nayagarh,2025-05-19,5.0,60.0,29.0
+Odisha,Rairangpur,2025-05-19,17.0,50.0,44.0
+Odisha,Rourkela,2025-05-19,22.5,83.0,72.33333333333333
+Odisha,Suakati,2025-05-19,12.0,46.0,39.0
+Odisha,Talcher,2025-05-19,28.0,40.0,37.0
+Odisha,Tensa,2025-05-19,17.0,54.0,40.0
+Punjab,Amritsar,2025-05-19,17.0,154.0,97.0
+Punjab,Jalandhar,2025-05-19,32.0,154.0,172.0
+Punjab,Khanna,2025-05-19,28.0,130.0,115.0
+Punjab,Ludhiana,2025-05-19,17.0,119.0,117.0
+Punjab,Mandi Gobindgarh,2025-05-19,26.0,112.0,124.0
+Punjab,Patiala,2025-05-19,18.0,129.0,133.0
+Rajasthan,Ajmer,2025-05-19,37.0,84.0,61.0
+Rajasthan,Alwar,2025-05-19,125.0,79.0,60.0
+Rajasthan,Banswara,2025-05-19,16.0,61.0,47.0
+Rajasthan,Baran,2025-05-19,19.0,81.0,29.0
+Rajasthan,Barmer,2025-05-19,7.0,81.0,23.0
+Rajasthan,Bharatpur,2025-05-19,41.0,102.0,59.0
+Rajasthan,Bhiwadi,2025-05-19,39.0,104.0,73.5
+Rajasthan,Bikaner,2025-05-19,9.0,125.0,28.0
+Rajasthan,Bundi,2025-05-19,15.0,88.0,36.0
+Rajasthan,Chittorgarh,2025-05-19,19.0,74.0,48.0
+Rajasthan,Churu,2025-05-19,10.0,81.0,37.0
+Rajasthan,Dausa,2025-05-19,38.0,135.0,48.0
+Rajasthan,Dholpur,2025-05-19,20.0,124.0,45.0
+Rajasthan,Dungarpur,2025-05-19,8.0,85.0,51.0
+Rajasthan,Hanumangarh,2025-05-19,11.0,137.0,119.0
+Rajasthan,Jaipur,2025-05-19,42.6,97.8,51.5
+Rajasthan,Jaisalmer,2025-05-19,3.0,107.0,27.0
+Rajasthan,Jalore,2025-05-19,9.0,79.0,39.0
+Rajasthan,Jhalawar,2025-05-19,48.0,94.0,107.0
+Rajasthan,Jhunjhunu,2025-05-19,10.0,102.0,35.0
+Rajasthan,Jodhpur,2025-05-19,10.0,70.8,36.6
+Rajasthan,Karauli,2025-05-19,17.0,80.0,24.0
+Rajasthan,Kota,2025-05-19,19.333333333333332,82.66666666666667,56.666666666666664
+Rajasthan,Nagaur,2025-05-19,8.0,98.0,37.0
+Rajasthan,Pali,2025-05-19,32.0,116.0,57.0
+Rajasthan,Pratapgarh,2025-05-19,22.0,59.0,31.0
+Rajasthan,Rajsamand,2025-05-19,34.0,59.0,43.0
+Rajasthan,Sawai Madhopur,2025-05-19,19.0,124.0,66.0
+Rajasthan,Sikar,2025-05-19,16.0,95.0,38.0
+Rajasthan,Sirohi,2025-05-19,9.0,62.0,32.0
+Rajasthan,Sri Ganganagar,2025-05-19,34.0,152.0,55.0
+Rajasthan,Tonk,2025-05-19,21.0,94.0,74.0
+Rajasthan,Udaipur,2025-05-19,35.0,81.0,57.0
+TamilNadu,Chennai,2025-05-19,16.857142857142858,43.833333333333336,45.714285714285715
+TamilNadu,Coimbatore,2025-05-19,9.0,23.0,28.0
+TamilNadu,Cuddalore,2025-05-19,13.5,15.0,16.0
+TamilNadu,Dindigul,2025-05-19,17.0,39.0,25.0
+TamilNadu,Gummidipoondi,2025-05-19,6.0,51.0,42.0
+TamilNadu,Hosur,2025-05-19,2.0,84.0,76.0
+TamilNadu,Kanchipuram,2025-05-19,17.0,41.0,25.0
+TamilNadu,Madurai,2025-05-19,20.0,26.0,19.0
+TamilNadu,Namakkal,2025-05-19,10.0,18.0,15.0
+TamilNadu,Ooty,2025-05-19,17.0,29.0,33.0
+TamilNadu,Perundurai,2025-05-19,7.0,61.0,19.0
+TamilNadu,Ramanathapuram,2025-05-19,12.0,22.0,25.0
+TamilNadu,Ranipet,2025-05-19,1.0,61.0,40.0
+TamilNadu,Salem,2025-05-19,12.0,25.0,17.0
+TamilNadu,Thanjavur,2025-05-19,41.0,23.0,40.0
+TamilNadu,Thoothukudi,2025-05-19,5.0,32.0,40.0
+TamilNadu,Tiruchirappalli,2025-05-19,4.0,42.0,44.0
+TamilNadu,Tirunelveli,2025-05-19,8.0,31.0,32.0
+Telangana,Hyderabad,2025-05-19,18.90909090909091,72.9,54.3
+Uttar_Pradesh,Agra,2025-05-19,26.333333333333332,97.83333333333333,66.8
+Uttar_Pradesh,Baghpat,2025-05-19,25.0,142.0,45.0
+Uttar_Pradesh,Bareilly,2025-05-19,2.0,39.0,27.0
+Uttar_Pradesh,Bulandshahr,2025-05-19,15.0,118.0,74.0
+Uttar_Pradesh,Firozabad,2025-05-19,17.0,66.0,35.0
+Uttar_Pradesh,Ghaziabad,2025-05-19,32.75,121.5,96.0
+Uttar_Pradesh,Gorakhpur,2025-05-19,11.0,124.0,88.0
+Uttar_Pradesh,Greater Noida,2025-05-19,41.0,123.0,60.0
+Uttar_Pradesh,Hapur,2025-05-19,39.0,89.0,51.0
+Uttar_Pradesh,Jhansi,2025-05-19,6.0,71.0,45.0
+Uttar_Pradesh,Kanpur,2025-05-19,33.333333333333336,82.66666666666667,69.0
+Uttar_Pradesh,Khurja,2025-05-19,3.0,127.0,67.0
+Uttar_Pradesh,Lucknow,2025-05-19,27.333333333333332,114.33333333333333,97.5
+Uttar_Pradesh,Meerut,2025-05-19,17.0,104.33333333333333,50.0
+Uttar_Pradesh,Moradabad,2025-05-19,22.5,65.8,39.0
+Uttar_Pradesh,Muzaffarnagar,2025-05-19,27.0,127.0,141.0
+Uttar_Pradesh,Noida,2025-05-19,40.0,136.66666666666666,96.33333333333333
+Uttar_Pradesh,Prayagraj,2025-05-19,7.666666666666667,93.0,54.666666666666664
+Uttar_Pradesh,Varanasi,2025-05-19,13.25,57.25,29.5
+Uttar_Pradesh,Vrindavan,2025-05-19,12.0,60.0,40.0
+Uttarakhand,Dehradun,2025-05-19,2.0,94.0,68.0
+Uttarakhand,Rishikesh,2025-05-19,10.0,70.0,65.0
+West_Bengal,Asansol,2025-05-19,15.5,46.75,39.25
+West_Bengal,Barrackpore,2025-05-19,14.0,33.0,17.0
+West_Bengal,Durgapur,2025-05-19,18.5,67.5,30.0
+West_Bengal,Haldia,2025-05-19,13.0,24.0,14.0
+West_Bengal,Howrah,2025-05-19,39.2,35.4,23.2
+West_Bengal,Kolkata,2025-05-19,30.166666666666668,38.5,27.166666666666668
+West_Bengal,Siliguri,2025-05-19,16.0,35.0,36.0

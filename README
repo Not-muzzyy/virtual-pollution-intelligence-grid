@@ -1,0 +1,15 @@
+To get dataset we used free datasets from kaggle named as "Real Time Air Quality India 2023-2025"
+Then we cleaned the dataset by removing empty rows and columns using a python code "clean_aqi.py"
+We created a basic structure for backend to work 
+In data are csv files
+In utils (severity,reliability) till now
+used "pandas" ,"numpy"
+For severity(min - max normalization ) -  Takes dataframe with PM2.5, PM10, NO2
+    Returns dataframe with new column: severity_index
+Formula - (series - series.min()) / (series.max() - series.min()) 
+
+Here series are columns from datasets
+For reliability - Returns overall reliability score (0 to 1)
+
+Gives complete score and avg of variances (pollutants) then converts it into reliabilityscore 
+Test - main file linking code with datasets
