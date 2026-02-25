@@ -1,15 +1,45 @@
-To get dataset we used free datasets from kaggle named as "Real Time Air Quality India 2023-2025"
-Then we cleaned the dataset by removing empty rows and columns using a python code "clean_aqi.py"
-We created a basic structure for backend to work 
-In data are csv files
-In utils (severity,reliability) till now
-used "pandas" ,"numpy"
-For severity(min - max normalization ) -  Takes dataframe with PM2.5, PM10, NO2
-    Returns dataframe with new column: severity_index
-Formula - (series - series.min()) / (series.max() - series.min()) 
+Virtual Pollution Intelligence Grid
 
-Here series are columns from datasets
-For reliability - Returns overall reliability score (0 to 1)
+AI-powered environmental risk forecasting and anomaly detection system built using pollutant datasets (PM2.5, PM10, NO2).
+This software-only platform simulates pollution severity, models spatial spread, forecasts 7-day trends, and generates dynamic high-alert reports for decision support.
 
-Gives complete score and avg of variances (pollutants) then converts it into reliabilityscore 
-Test - main file linking code with datasets
+⸻
+
+🚀 Key Features
+	•	Composite Pollution Severity Index (Normalized & Weighted)
+	•	Scenario-Based Simulation (Industrial Surge, Wind Spread, Containment)
+	•	Spatial Spread Modeling
+	•	7-Day Forecast Projection
+	•	Dynamic Anomaly Detection (Mean + 1.5σ)
+	•	Risk Scoring & Priority Ranking
+	•	Automated High Alert Report Generation
+	•	Interactive Dashboard (Map + Charts + Analytics)
+
+⸻
+
+🧠 Technical Approach
+	•	Feature Normalization
+	•	Weighted Composite Index Modeling
+	•	Spatial Diffusion Simulation
+	•	Forecast Projection
+	•	Statistical Anomaly Detection
+	•	Risk Prioritization Framework
+
+⸻
+
+🛠 Tech Stack
+	•	Python
+	•	Streamlit
+	•	Pandas
+	•	NumPy
+	•	Plotly
+	•	Folium
+	•	Scikit-learn
+
+📂 Run Locally
+pip install -r requirements.txt
+streamlit run dashboard.py
+
+🎯 Use Case
+
+Designed for Smart Cities, Climate Resilience, and Environmental Risk Intelligence systems where hardware sensor networks are unavailable or limited.
